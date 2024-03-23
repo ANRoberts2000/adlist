@@ -101,3 +101,4 @@ logservice.hicloud.com
 logservice1.hicloud.com
 click.oneplus.cn
 samsung-com.112.2o7.net
+akamaized.net
