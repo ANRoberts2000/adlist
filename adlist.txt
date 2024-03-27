@@ -103,3 +103,4 @@ click.oneplus.cn
 samsung-com.112.2o7.net
 akamaized.net
 liftoff-creatives.io
+*.akamaized.net
